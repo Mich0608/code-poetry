@@ -38,6 +38,6 @@ int main()
     int age = 12;
     puberty1(age);
     puberty2();
-    printf("\ni started saving money, for what?\n\n");
+    printf("\n..adulthood?\n\n");
     return 0;
 }
