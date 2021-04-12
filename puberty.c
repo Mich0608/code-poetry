@@ -38,6 +38,6 @@ int main()
     int age = 12;
     puberty1(age);
     puberty2();
-    printf("\n..adulthood?\n\n");
+    printf("\nno, i can't be an adult yet\n\n");
     return 0;
 }
