@@ -38,6 +38,6 @@ int main()
     int age = 12;
     puberty1(age);
     puberty2();
-    printf("\nsometimes i still burn food in the microwave\n\n");
+    printf("\nbut not as much\n\n");
     return 0;
 }
